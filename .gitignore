@@ -1,0 +1,9 @@
+CLAUDE.md
+CLAUDE.local.md
+.env
+node_modules/
+.next/
+prisma/dev.db
+.DS_Store
+.idea/
+.claude/settings.local.json
