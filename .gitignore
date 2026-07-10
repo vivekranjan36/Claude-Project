@@ -7,3 +7,4 @@ prisma/dev.db
 .DS_Store
 .idea/
 .claude/settings.local.json
+logs.txt
